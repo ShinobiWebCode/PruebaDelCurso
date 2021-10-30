@@ -1,1 +1,4 @@
+/2/ Con esto nos damos cuenta que estamos realizando un cambio a nuestro archivo
+con esta modificacion que estamos haciendo.
+
 Esta es una prueba de como se utiliza vs code con git
