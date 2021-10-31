@@ -1,3 +1,5 @@
+/3/ Realizamos este nuevo cambio para ver que tal vamos entendiendo el GIT y hasta el momento me encanta
+
 /2/ Con esto nos damos cuenta que estamos realizando un cambio a nuestro archivo
 con esta modificacion que estamos haciendo.
 
